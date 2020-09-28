@@ -147,6 +147,9 @@
     align-items: stretch;
     border: 5px solid orange;
     }
-  
+  .card {
+    width: 50%;
+    height: 30px;
+  }
   
   }
